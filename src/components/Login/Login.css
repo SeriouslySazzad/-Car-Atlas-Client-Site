@@ -1,0 +1,8 @@
+.login .login-container {
+    background-color: rgb(207, 219, 219);
+    padding-bottom: 70px;
+}
+
+.login .login-container .input-field {
+    background-image: rgb(207, 219, 219);
+}

@@ -1,0 +1,11 @@
+.single-order p {
+    /* font-size: 20px; */
+    font-weight: 700;
+}
+
+.single-order {
+    background-color: rgba(0, 139, 139, 0.568);
+    padding: 20px;
+    border: 2px solid darkgrey;
+    border-radius: 20px;
+}

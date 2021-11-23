@@ -1,0 +1,17 @@
+.review {
+    background-color: darkslategray;
+    border-radius: 10px;
+}
+
+.review h4{
+    font-weight: 700;
+    color: white;
+}
+.review h5{
+    /* font-weight: 700; */
+    color: white;
+}
+
+.icon-color{
+    color: gold;
+}

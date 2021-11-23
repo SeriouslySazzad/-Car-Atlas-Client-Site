@@ -1,0 +1,24 @@
+.products-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 30px;
+}
+
+/* .products-section {
+    background-color: gray ;
+} */
+
+@media only screen and (max-width:688px) {
+    .products-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .products-container img {
+        width: 70%;
+    }
+}
+
+@media only screen and (min-width:689px) and (max-width:992px){
+    .products-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

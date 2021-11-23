@@ -1,0 +1,62 @@
+[
+    {
+        "name": "BUGATTI LA VOITURE NOIRE",
+        "img": "https://i.ibb.co/3MvxF32/1.jpg",
+        "description": "Bugatti has unveiled the “La Voiture Noire” translated as “the black car” made entirely from carbon fiber. The first one of the Limited Edition car has been sold for $19 million to Ferdinand Piech, the owner of VW group. Designed by Salome Etienne, it is inspired by its predecessors Veyron and Chiron and the pre-war Type 57SC Atlantic.",
+        "price": "19000000"
+    },
+    {
+        "name": "PAGANI ZONDA HP BARCHETTA",
+        "img": "https://i.ibb.co/gyCTZqB/2.jpg",
+        "description": "With a unique look, HP Barchetta adds to the incredible legacy of Pagani Zonda. Horacio Pagani, the founder of Pagani Automobili, named this magnificent edition of Zonda as Barchetta for its cunning resemblance to a ‘little boat.’ The blue-tinted frame of the car is formed entirely of carbon fiber. The chassis is developed from what Pagani.",
+        "price": "17500000"
+    },
+    {
+        "name": "SWEPTAIL BY ROLLS ROYCE",
+        "img": "https://i.ibb.co/fr6NwPK/3.jpg",
+        "description": "Before you gasp at the price, do note that this car is off the markets. That’s because it was made on the recommendations of one specific customer whose name the company has refused to divulge. A company famous for its luxurious rollouts, there were only 4,000 Rolls Royce cars manufactured in 2016! This particular exclusive car comes with.",
+        "price": "13000000"
+    },
+    {
+        "name": "BUGATTI CENTODIECI",
+        "img": "https://i.ibb.co/44fg9JG/4.jpg",
+        "description": "With this supercar, Bugatti pays homage to its 110-year old legacy. The word ‘Centodieci’ means 110 in Italian. The car is equipped with an 8.0-liter W-16 engine capable of producing a staggering 1600 horsepower. It can accelerate from 0 to 62 mph in just 2.4 seconds, making Centodieci the quickest-accelerating Bugatti currently on road.",
+        "price": "9000000"
+    },
+    {
+        "name": "MERCEDES MAYBACH EXELERO",
+        "img": "https://i.ibb.co/7YkjTTM/5.jpg",
+        "description": "Built by a German luxury car manufacturer, Maybach Exelero is known for its peculiar design and price tag of $8 million. Only one model of the car has ever been produced. Maybach Exelero combines the elegance and quality of high-end limousines. The car is powered by a V-12 twin-turbo engine that produces 725 pounds of torque at 2500 RPM.",
+        "price": "8000000"
+    },
+    {
+        "name": "BUGATTI DIVO",
+        "img" : "https://i.ibb.co/RQJNd1K/6.jpg",
+        "description": "Bugatti Divo followed after the immense success of Chiron, however with exotic and much more exclusive specs. As the creators boast, Bugatti Divo is the most agile and dynamic car they’ve ever created. The car generates 456kg downforce at the top speed. The extra drag produced by the aerodynamic elements has reduced the top speed of Divo.",
+        "price": "6000000"
+    },
+    {
+        "name": "PAGANI HUAYRA IMOLA",
+        "img" : "https://i.ibb.co/2hMzDWT/7.jpg",
+        "description": "Named after a famous Italian racing track, Huayra Imola’s technical specs have long been shrouded in mystery. The manufacturer has recently released the technical details of the supercar. Mercedes-AMG developed a twin-turbo 6.0-liter V12 engine specifically for Pagani. The engine pumps magnificent 827 horsepower and 811 pound-feet of torque.",
+        "price": "5400000"
+    },
+    {
+        "name": "KOENIGSEGG CCXR TREVITA",
+        "img" : "https://i.ibb.co/wyZTdFW/8.jpg",
+        "description": "The most expensive street-legal production car in the world, this is coated with real diamonds. Yes, you read that right. ‘Trevita’ is an abbreviation translating into ‘three whites’. The carbon fibers are indeed coated with a diamond dust-impreganted resin, called the Koenigsegg Proprietary Diamond Weave. This technology transformed the fibres.",
+        "price": "4800000"
+    },
+    {
+        "name": "LAMBORGHINI VENENO ROADSTER",
+        "img" : "https://i.ibb.co/kJdTzZw/9.jpg",
+        "description": "Built to celebrate the company’s 50th birthday, ‘Veneno’ literally means poison in Spanish, and well, the design does look deadly. Looking almost like an alien space capsule, this car can reach speeds that can give one of those a run for their money, literally. The 6.5 liter V12 with a seven-speed single clutch ISR automated manual transmission.",
+        "price": "4500000"
+    },
+    {
+        "name": "MCLAREN P1 LM",
+        "img" : "https://i.ibb.co/QdPtnGj/10.jpg",
+        "description": "Not a production car, this is more or less a street-legal version of the track-only McLaren P1 GTR. Converted by the British firm Lanzante, who bought the original P1 built by McLaren, it was made keeping in mind a select group of buyers in the U. S., Japan, U. K., and the UAE. This car has a lot in common with the P1 GTR and the legendary McLaren.",
+        "price": "3600000"
+    }
+]

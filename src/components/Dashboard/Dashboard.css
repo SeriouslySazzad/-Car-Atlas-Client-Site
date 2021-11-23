@@ -1,0 +1,21 @@
+.dashboard-menu {
+    list-style: none;
+    margin-bottom: 10px;
+    font-weight: 700;
+    padding: 5px;
+    font-size: 22px;
+}
+
+.dashboard-menu:hover {
+    background-color: rgba(102, 16, 59, 0.356);
+    color: khaki;
+    border-radius: 80px;
+}
+
+.dashboard-left{
+    background-color: #15B666;
+}
+
+.dashboard-left li {
+    color: #ffff00;
+}
